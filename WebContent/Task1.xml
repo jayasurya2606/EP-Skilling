@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Task1.xsl"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Task1.xsd">
+	<student sid="a">
+		<id>733</id>
+		<name>Surya</name>
+		<email>surya@gmail.com</email>
+		<marks>98</marks>
+		<class>2nd Year</class>
+	</student>
+	<student sid="b">
+		<id>506</id>
+		<name>Sadiq</name>
+		<email>sadiq@gmail.com</email>
+		<marks>95</marks>
+		<class>1st Year</class>
+	</student>
+	<student sid="c">
+		<id>479</id>
+		<name>Sharooq</name>
+		<email>sharooq@gmail.com</email>
+		<marks>99</marks>
+		<class>2nd Year</class>
+	</student>
+	<student sid="d">
+		<id>230</id>
+		<name>Naveen</name>
+		<email>naveen@gmail.com</email>
+		<marks>93</marks>
+		<class>3rd Year</class>
+	</student>
+	<student sid="e">
+		<id>122</id>
+		<name>Ganesh</name>
+		<email>ganesh@gmail.com</email>
+		<marks>90</marks>
+		<class>1st Year</class>
+	</student>
+</Students>
